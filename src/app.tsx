@@ -88,13 +88,13 @@ export default function Home() {
                                 className='w-full max-w-[100px] lg:'
                             />
 
-                            <div className='text-center space-y-3 max-w-6xl'>
+                            <div className='px-2 text-center space-y-3 max-w-6xl'>
                                 <h2 className='font-franieLight text-sm md:text-base lg:text-lg text-[#00295b] '>
-                                    Busca aumentar o valor da <strong className='font-franieSemiBold'>sua consulta?</strong>
+                                    Você é um profissional da saúde que deseja <strong className='w-full font-franieSemiBold'>impulsionar sua carreira a novos patamares,</strong> mas não sabe como?
                                 </h2>
 
-                                <h1 className='font-franiExtraBold text-xl md:text-3xl xl:text-5xl text-[#004ebf] leading-7 xl:leading-[60px] '>
-                                    Se livrar de <span className='px-1 py-1 text-white bg-[#00295b]'>dependência</span> dos planos de saúde e planos odontológicos?
+                                <h1 className='font-franiExtraBold text-lg md:text-3xl xl:text-4xl text-[#004ebf] leading-7 xl:leading-[60px] '>
+                                    A BMouse Productions é uma agência de criatividade <span className='px-1 py-1 text-white bg-[#00295b]'>especializada em marketing,</span> que pode te ajudar a alcançar seus objetivos comerciais.
                                 </h1>
                             </div>
 
