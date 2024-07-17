@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: franieExtraBold;
+    src: url(./assets/fonts/FRANIE-EXTRABOLD.OTF);
+}
+
+@font-face {
+    font-family: franieRegular;
+    src: url(./assets/fonts/FRANIE-REGULAR.OTF);
+}
+
+@font-face {
+    font-family: franieSemiBold;
+    src: url(./assets/fonts/FRANIE-SEMIBOLD.OTF);
+}
+
+@font-face {
+    font-family: franieLight;
+    src: url(./assets/fonts/FRANIE-LIGHT.OTF);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: franieRegular;
+}
+
+body, html{
+    background-color: #004ebf;
+    overflow-x: hidden;
+}
+
+
+
+.font-franieLight{
+    font-family: franieLight;
+}
+
+.font-franieSemiBold{
+    font-family: franieSemiBold;
+}
+
+.font-franiExtraBold{
+    font-family: franieExtraBold;
+}
+
+/* SECTION 4*/
+.slick-arrow.slick-next, .slick-arrow.slick-prev{
+    display: none !important;
+}
+
+.efeito-vidro {
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.625);
+    backdrop-filter: blur(7.5px);
+}
+
+.shadow-botao2:hover{
+    box-shadow: 0 0 50px 10px #760bff;
+}
+
+.shadow-card:hover{
+    box-shadow: 0 0 60px 20px #0fff9395;
+}
+
+.shadow-card img{
+    scale: 1.25;
+}
+
+.shadow-card:hover img{
+    scale: 1;
+}
+
+.card-empresa:hover .button-card,.card-empresa:hover .button-card svg path{
+    background-color: #fff !important;
+    color: #000 !important;
+    
+}
