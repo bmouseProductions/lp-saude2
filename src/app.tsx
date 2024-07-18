@@ -69,7 +69,7 @@ export default function Home() {
                         />
 
                         <a 
-                            href='https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pela+landig+page+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions.'
+                            href='https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pelo+site+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions.'
                             className='px-5 py-3 w-fit hidden md:flex items-center justify-center gap-3 text-[#00295b] bg-[#0fff94] hover:bg-white  rounded-3xl transition-all'
                         >
                             Entre em contato 
@@ -108,7 +108,7 @@ export default function Home() {
                     </div>
                 </div>
                 <a 
-                    href='https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pela+landig+page+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions.'
+                    href='https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pelo+site+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions.'
                     className='px-5 py-3 mt-5 mx-auto w-fit flex md:hidden items-center justify-center gap-3 text-[#00295b] bg-[#0fff94] hover:bg-white  rounded-3xl transition-all animate-bounce'
                 >
                     Entre em contato 
@@ -148,7 +148,7 @@ export default function Home() {
                         </div>
 
                         <a 
-                            href="https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pela+landig+page+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions." 
+                            href="https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pelo+site+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions." 
                             target="_blank"
                             className='my-10 flex items-center gap-3 lg:text-lg font-franieLight uppercase border-b hover:border-none transition-all '
                         >
@@ -170,7 +170,7 @@ export default function Home() {
                         />
 
                         <a 
-                            href="https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pela+landig+page+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions." 
+                            href="https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pelo+site+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions." 
                             target="_blank"
                             className='my-10 flex items-center gap-3 lg:text-lg font-franieLight uppercase border-b hover:border-none transition-all '
                         >
@@ -360,7 +360,7 @@ export default function Home() {
                     </div>
                     
                     <a 
-                        href="https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pela+landig+page+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions." 
+                        href="https://api.whatsapp.com/send/?phone=55349993067766&text=Ol%C3%A1%2C+vim+pelo+site+e+gostaria+de+saber+mais+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7oes+da+Bmouse+Productions." 
                         target="_blank"
                         className='mt-16 mb-10 mx-auto w-fit flex items-center gap-3 lg:text-lg font-franieLight text-white uppercase border-b hover:border-none transition-all '
                     >
